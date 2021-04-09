@@ -10,7 +10,7 @@ function App() {
     <Router>
       <div className="App">
         <NavBar />
-        <Route exact path={["/", "/home"]} component={Home} />
+        <Route exact path={["/", "/home", "/annie-mcfarland-web-development"]} component={Home} />
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/contact" component={Contact} />
       </div>
