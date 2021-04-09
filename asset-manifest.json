@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/annie-mcfarland-web-development/static/css/main.52b31480.chunk.css",
+    "main.js": "/annie-mcfarland-web-development/static/js/main.3ccea5bd.chunk.js",
+    "main.js.map": "/annie-mcfarland-web-development/static/js/main.3ccea5bd.chunk.js.map",
+    "runtime-main.js": "/annie-mcfarland-web-development/static/js/runtime-main.dbcfe1ec.js",
+    "runtime-main.js.map": "/annie-mcfarland-web-development/static/js/runtime-main.dbcfe1ec.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/annie-mcfarland-web-development/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ca1798e4.chunk.js": "/annie-mcfarland-web-development/static/js/2.ca1798e4.chunk.js",
+    "static/js/2.ca1798e4.chunk.js.map": "/annie-mcfarland-web-development/static/js/2.ca1798e4.chunk.js.map",
+    "index.html": "/annie-mcfarland-web-development/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/annie-mcfarland-web-development/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.52b31480.chunk.css.map": "/annie-mcfarland-web-development/static/css/main.52b31480.chunk.css.map",
+    "static/js/2.ca1798e4.chunk.js.LICENSE.txt": "/annie-mcfarland-web-development/static/js/2.ca1798e4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/annie-mcfarland-web-development/static/media/background.80283556.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbcfe1ec.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.ca1798e4.chunk.js",
+    "static/css/main.52b31480.chunk.css",
+    "static/js/main.3ccea5bd.chunk.js"
+  ]
+}
