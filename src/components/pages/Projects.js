@@ -6,14 +6,14 @@ import Footer from "../Footer";
 const projects = [
   {
     id: 0,
-    image: "../../imgs/rendezvoodle2.png",
+    image: "./imgs/rendezvoodle2.png",
     name: "Rendezvoodle - St. Louis",
     githubLink: "https://github.com/anniemcfarland7/rendezvoodle-2.0",
     deployedLink: "http://rendezvoodlestl.herokuapp.com/",
   },
   {
     id: 1,
-    image: "../../imgs/rendezvoodle.png",
+    image: "./imgs/rendezvoodle.png",
     name: "Rendezvoodle",
     githubLink: "https://github.com/anniemcfarland7/rendezvoodle",
     deployedLink: "https://anniemcfarland7.github.io/Rendezvoodle/",
