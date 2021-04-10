@@ -46,7 +46,7 @@ function Contact() {
                   <p className="card-text">
                     Download My Resume: &nbsp;
                     <a
-                      href="../../imgs/ANNIE_MCFARLAND_RESUME_2021.PDF" download="ANNIE_MCFARLAND_RESUME_2021"
+                      href="./imgs/ANNIE_MCFARLAND_RESUME_2021.PDF" download="ANNIE_MCFARLAND_RESUME_2021"
                     >
                       <FontAwesomeIcon className="fas" icon={faFilePdf} />
                     </a>
