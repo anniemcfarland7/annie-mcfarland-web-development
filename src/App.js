@@ -10,9 +10,9 @@ function App() {
     <Router>
       <div className="App">
         <NavBar />
-        <Route exact path={["/", "/home", "/annie-mcfarland-web-development/"]} component={Home} />
-        <Route exact path="/projects" component={Projects} />
-        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/annie-mcfarland-web-development/" component={Home} />
+        <Route exact path="/annie-mcfarland-web-development/projects" component={Projects} />
+        <Route exact path="/annie-mcfarland-web-development/contact" component={Contact} />
       </div>
     </Router>
   );
