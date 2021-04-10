@@ -7,7 +7,7 @@ function NavTabs() {
   
     return (
       <Navbar className="text-responsive" expand="lg">
-        <Navbar.Brand className="text-responsive" as={Link} to="/home">
+        <Navbar.Brand className="text-responsive" as={Link} to="/annie-mcfarland-web-development/home">
             Annie McFarland Web Development
         </Navbar.Brand>
   
@@ -16,9 +16,9 @@ function NavTabs() {
           <Nav className="ml-auto">
             <Nav.Link
               as={Link}
-              to="/home"
+              to="/annie-mcfarland-web-development/home"
               className={
-                location.pathname === "/home"
+                location.pathname === "/annie-mcfarland-web-development/home"
                   ? "nav-link active"
                   : "nav-link"
               }
@@ -28,9 +28,9 @@ function NavTabs() {
 
             <Nav.Link
               as={Link}
-              to="/projects"
+              to="/annie-mcfarland-web-development/projects"
               className={
-                location.pathname === "/projects"
+                location.pathname === "/annie-mcfarland-web-development/projects"
                   ? "nav-link active"
                   : "nav-link"
               }
@@ -40,9 +40,9 @@ function NavTabs() {
 
             <Nav.Link
               as={Link}
-              to="/contact"
+              to="/annie-mcfarland-web-development/contact"
               className={
-                location.pathname === "/contact"
+                location.pathname === "/annie-mcfarland-web-development/contact"
                   ? "nav-link active"
                   : "nav-link"
               }
