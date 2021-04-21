@@ -51,7 +51,7 @@ function NavTabs() {
             </Nav.Link>
 
             <Nav.Link
-              href="https://drive.google.com/file/d/1UkODC9ifCNqGqzh5f78xLuObOLlD2Lr3/view?usp=sharing"
+              href="https://drive.google.com/file/d/1v7RDDlLhrfhwP9azxrppKn8rKxcwcRv7/view?usp=sharing"
               target="_blank"
               className="nav-link"
             >
