@@ -2,4 +2,4 @@
 
 ## Description
 
-A website containing the web development projects of Annie McFarland.
+A website built with React containing the web development projects of Annie McFarland.
